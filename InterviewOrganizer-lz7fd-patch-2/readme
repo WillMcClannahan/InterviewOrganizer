@@ -1,0 +1,6 @@
+Simple Github Stuff:
+
+-Don't push to master
+-Use the dev branch once its created
+-If you're working on one specific feature, branch off of dev and work from there
+-When you're done, we'll combine it with dev and eventually push to master
